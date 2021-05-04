@@ -36,7 +36,7 @@ __Project__ | __Description__ | __Topic__ | __Algorithm__ | __Library__ | __Sour
 
 
 -----------
-* #### __Deep Learning__
+## __Deep Learning__
 __Project__ | __Description__ | __Algorithm__ | __Library__ 
 ------------|-----------------|---------------|------------
 [Sentiment Analysis of Movie Reviews](https://github.com/tw7366/Sentiment-Analysis-of-Movie-Reviews/blob/master/Sentiment%20Analysis%20of%20Movie%20Reviews.ipynb) | Classified whether movie reviews are positive or negative through sentiment analysis | The Sequential Model, [Tokenizer](https://www.tensorflow.org/api_docs/python/tf/keras/preprocessing/text/Tokenizer), [LSTM](https://www.tensorflow.org/api_docs/python/tf/keras/layers/LSTM) | tensorflow, numpy, pandas, re 
