@@ -58,9 +58,8 @@ __Project__ | __Description__ | __Topic__ | __Algorithm__ | __Library__ | __Sour
 
 
 * #### __Deep Learning__
-__Project__ | __Description__ | __Algorithm__ | __Library__ 
-------------|-----------------|---------------|------------
-[Digit Recognition](https://github.com/tw7366/Data-Analysis-Practice-Using-Python/blob/main/Projects/Pytorch_EMNIST.ipynb) |  I wanted to create a very basic neural network model to predict a digit from an image | [The Sequential Model](https://keras.io/guides/sequential_model/) | [tensorflow](https://github.com/tensorflow/tensorflow), numpy, matplotlib
+
+
 
 
 ------------
