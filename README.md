@@ -58,9 +58,8 @@ __Project__ | __Description__ | __Topic__ | __Algorithm__ | __Library__ | __Sour
 
 
 * #### __Deep Learning__
-__Project__ | __Description__ | __Algorithm__ | __Library__ 
-------------|-----------------|---------------|------------
-[Digit Recognition](https://github.com/tw7366/Data-Analysis-Practice-Using-Python/blob/main/Projects/Pytorch_EMNIST.ipynb) |  I wanted to create a very basic neural network model to predict a digit from an image | [The Sequential Model](https://keras.io/guides/sequential_model/) | [tensorflow](https://github.com/tensorflow/tensorflow), numpy, matplotlib
+
+
 
 
 ------------
@@ -72,4 +71,3 @@ __Project__ | __Objective__ | __Description__ | __Library__ | __Source__
 [Supermarket](https://github.com/tw7366/Projects/blob/master/Projects/Supermarket.ipynb) | To practice data analysis & visualization | Analyzed sales by gender, product line, branch, and time |  pandas, numpy, collections, matplotlib, seaborn | [Supermarket sales](https://www.kaggle.com/aungpyaeap/supermarket-sales)
 [Data Analyst](https://github.com/tw7366/Projects/blob/master/Projects/Data%20Analyst.ipynb) | To get a general idea of industries a data analyst can work in & to see salary ranges | Analyzed data analyst job posts by locations, salaries, companies, and rating | pandas, numpy, seaborn, matplotlib | [Kaggle - Data Analyst Jobs](https://www.kaggle.com/andrewmvd/data-analyst-jobs)
 [Suicide Rate in the 21st Century](https://github.com/tw7366/Projects/blob/master/Projects/Suicide%20Rates%20in%20the%2021st%20Century.ipynb) | To practice dealing with messy and missing data | Found the countries with the lowest and the highest suicide rates by using various techiniques | pandas, numpy, matplotlib | [Kaggle - Suicide Rates](https://www.kaggle.com/russellyates88/suicide-rates-overview-1985-to-2016)
-
